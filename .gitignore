@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*$py.class
+
+# Cython build files
+build/
+*.so
+cytree.cpp
+treebaseline.cpp
+
+
+# Pycharm
+.idea/*
+.vscode
